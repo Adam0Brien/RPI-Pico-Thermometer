@@ -6,7 +6,7 @@ Raspberry pi pico connected to DHT11 Sensor displaying data on an LCD screen
 
 <br>
 
-#The following python files have not been written by me but are needed to get this project working 
+The following python files have not been written by me but are needed to get this project working 
 <br>
 dht.py 
 <br>
